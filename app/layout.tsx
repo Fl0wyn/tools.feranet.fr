@@ -1,12 +1,12 @@
+import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
+import { ThemeProvider } from "@/components/theme-provider";
+import { siteConfig } from "@/config/site";
 import { cn } from "@/lib/utils";
 import "@/styles/globals.css";
 import { Analytics } from "@vercel/analytics/react";
 import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
-// import { TailwindIndicator } from "@/components/tailwind-indicator";
-import { ThemeProvider } from "@/components/theme-provider";
-import { siteConfig } from "@/config/site";
 
 export const fontSans = FontSans({
   subsets: ["latin"],
@@ -40,8 +40,8 @@ export default function RootLayout({
           <div className="relative flex min-h-screen flex-col">
             <SiteHeader />
             <div className="flex-1">{children}</div>
+            <SiteFooter />
           </div>
-          {/* <TailwindIndicator /> */}
         </ThemeProvider>
         <Analytics />
       </body>
