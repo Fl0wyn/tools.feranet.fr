@@ -1,6 +1,8 @@
 # tools.feranet.fr
 
-This is a simple website to list all the tools I use on a daily basis.
+A collection of tools for sysadmins and developers
+
+>This is a simple website to list all the tools I use on a daily basis.
 
 ## Setup
 
