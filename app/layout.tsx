@@ -1,9 +1,9 @@
+import { SiteHeader } from "@/components/site-header";
 import { cn } from "@/lib/utils";
 import "@/styles/globals.css";
+import { Analytics } from "@vercel/analytics/react";
 import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
-
-import { SiteHeader } from "@/components/site-header";
 // import { TailwindIndicator } from "@/components/tailwind-indicator";
 import { ThemeProvider } from "@/components/theme-provider";
 import { siteConfig } from "@/config/site";
@@ -43,6 +43,7 @@ export default function RootLayout({
           </div>
           {/* <TailwindIndicator /> */}
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
