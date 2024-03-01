@@ -280,6 +280,6 @@ export const siteConfig = {
   ],
 
   links: {
-    github: "https://github.com/tools.feranet.fr",
+    github: "https://github.com/Fl0wyn/tools.feranet.fr",
   },
 };
