@@ -5,7 +5,7 @@ const currentYear = new Date().getFullYear();
 
 export function SiteFooter() {
   return (
-    <footer className="py-4 text-center dark:font-light text-sm">
+    <footer className="pb-6 text-center dark:font-light text-sm">
       Copyright © {currentYear}&nbsp;
       <Link
         href={`https://${siteConfig.href}`}
