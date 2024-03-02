@@ -1,7 +1,12 @@
+"use client";
+
 import { SiteHero } from "@/components/site-hero";
 import { ToolsConfig } from "@/config/tools";
 import Image from "next/image";
 import Link from "next/link";
+import { useState } from "react";
+
+import { badgeVariants } from "@/components/ui/badge";
 
 import {
   Command,
@@ -20,16 +25,64 @@ import {
 } from "@/components/ui/card";
 
 export default function IndexPage() {
+  const [tools, setTools] = useState(ToolsConfig);
+
+  const [active, setActive] = useState("All");
+
+  const updateTools = (
+    link:
+      | {
+          title: string;
+          rows: { title: string; href: string; icon: string; desc: string }[];
+        }
+      | "All"
+  ) => {
+    if (link === "All") {
+      setActive("All");
+      return setTools(ToolsConfig);
+    } else {
+      setTools([link]);
+      setActive(link.title);
+    }
+  };
+
+  // ToolsConfig.reduce((acc, link) => acc + link.rows.length, 0)
+  // link.rows.length
+
   return (
-    <div className="w-full bg-background dark:bg-dot-white/[0.2] bg-dot-black/[0.2] relative">
-      <div className="absolute pointer-events-none inset-0 bg-background [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
+    <>
       <SiteHero />
-      <section className="container py-4 md:py-8 z-20 flex">
-        <Command className="border relative">
+
+      <section className="container px-4 relative flex">
+        <ul className="flex flex-wrap gap-2">
+          <li
+            className={badgeVariants({
+              variant: `${active === "All" ? "default" : "outline"}`,
+            })}
+            onClick={() => updateTools("All")}
+          >
+            All
+          </li>
+          {ToolsConfig.map((link) => (
+            <li
+              key={link.title}
+              className={badgeVariants({
+                variant: `${active === link.title ? "default" : "outline"}`,
+              })}
+              onClick={() => updateTools(link)}
+            >
+              {link.title}
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section className="container px-4 pt-4 z-20 relative flex">
+        <Command className="border">
           <CommandInput placeholder="Search..." />
           <CommandList>
             <CommandEmpty>No results found</CommandEmpty>
-            {ToolsConfig.map((link) => (
+            {tools.map((link) => (
               <CommandGroup key={link.title} heading={link.title}>
                 <div className="container flex flex-wrap items-start gap-2 px-2 my-4">
                   {link.rows.map((row) => (
@@ -59,6 +112,6 @@ export default function IndexPage() {
           </CommandList>
         </Command>
       </section>
-    </div>
+    </>
   );
 }

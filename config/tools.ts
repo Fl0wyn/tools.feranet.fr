@@ -2,7 +2,7 @@ export type ToolsConfig = typeof ToolsConfig;
 
 export const ToolsConfig = [
   {
-    title: "Design & Color",
+    title: "Design",
     rows: [
       {
         title: "Photopea",
@@ -35,6 +35,12 @@ export const ToolsConfig = [
         desc: "Convert your images to Base64",
       },
       {
+        title: "Canva",
+        href: "https://www.canva.com/",
+        icon: "/images/canva.png",
+        desc: "Design anything",
+      },
+      {
         title: "Tailwindcss Color",
         href: "https://tailwindcss.com/docs/customizing-colors",
         icon: "/images/tailwindcss.png",
@@ -49,7 +55,7 @@ export const ToolsConfig = [
     ],
   },
   {
-    title: "Icon & Logo",
+    title: "Icon",
     rows: [
       {
         title: "Material Icons",
@@ -108,7 +114,7 @@ export const ToolsConfig = [
     ],
   },
   {
-    title: "Library & Frameworks",
+    title: "Library",
     rows: [
       {
         title: "VuePress",
@@ -217,11 +223,29 @@ export const ToolsConfig = [
         icon: "/images/tabnine.png",
         desc: "Coding assistant",
       },
+      {
+        title: "DeepAI",
+        href: "https://deepai.org/",
+        icon: "/images/deepai.png",
+        desc: "AI tools and resources",
+      },
     ],
   },
   {
     title: "API",
     rows: [
+      {
+        title: "Jsonplaceholder",
+        href: "https://jsonplaceholder.typicode.com/",
+        icon: "/images/jsonplaceholder.png",
+        desc: "Fake Online REST API for Testing and Prototyping",
+      },
+      {
+        title: "Unsplash",
+        href: "https://unsplash.com/developers",
+        icon: "/images/unsplash.png",
+        desc: "The internet’s source of freely-usable images",
+      },
       {
         title: "Ipinfo",
         href: "https://ipinfo.io/",
@@ -249,7 +273,7 @@ export const ToolsConfig = [
     ],
   },
   {
-    title: "Dev Tools & Utilities",
+    title: "Utilities",
     rows: [
       {
         title: "Alternativeto",
@@ -274,6 +298,53 @@ export const ToolsConfig = [
         href: "https://jsoncrack.com/",
         icon: "/images/json-crack.png",
         desc: "Understand your JSON better by visualizing",
+      },
+      {
+        title: "Virus Total",
+        href: "https://www.virustotal.com/gui/home/upload",
+        icon: "/images/virustotal.png",
+        desc: "Analyze suspicious files and URLs to detect types of malware",
+      },
+      {
+        title: "Regex101",
+        href: "https://regex101.com/",
+        icon: "/images/regex101.png",
+        desc: "Online regex tester and debugger",
+      },
+      {
+        title: "Excalidraw",
+        href: "https://excalidraw.com/",
+        icon: "/images/excalidraw.png",
+        desc: "Virtual whiteboard for sketching hand-drawn like diagrams",
+      },
+      {
+        title: "DBdiagram",
+        href: "https://dbdiagram.io/home",
+        icon: "/images/dbdiagram.png",
+        desc: "Database diagram tool",
+      },
+      {
+        title: "List of files by Microsoft",
+        href: "https://files.rg-adguard.net/category",
+        icon: "/images/ListoffilesbyMicrosoft.png",
+        desc: "Download Windows ISOs",
+      },
+    ],
+  },
+  {
+    title: "Games",
+    rows: [
+      {
+        title: "Flexbox Froggy",
+        href: "https://flexboxfroggy.com",
+        icon: "/images/flexboxfroggy.png",
+        desc: "A game for learning CSS flexbox",
+      },
+      {
+        title: "Grid Garden",
+        href: "https://cssgridgarden.com/",
+        icon: "/images/gridgarden.png",
+        desc: "A game for learning CSS grid",
       },
     ],
   },

@@ -26,9 +26,10 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <div className="relative flex min-h-screen flex-col">
+          <div className="relative flex min-h-screen flex-col bg-background dark:bg-dot-white/[0.2] bg-dot-black/[0.2]">
             <SiteHeader />
-            <div className="flex-1">{children}</div>
+            <div className="absolute pointer-events-none inset-0 bg-background [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
+            <div className="flex-1 h-full">{children}</div>
             <SiteFooter />
           </div>
         </ThemeProvider>
