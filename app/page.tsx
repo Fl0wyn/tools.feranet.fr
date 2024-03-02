@@ -84,7 +84,7 @@ export default function IndexPage() {
             <CommandEmpty>No results found</CommandEmpty>
             {tools.map((link) => (
               <CommandGroup key={link.title} heading={link.title}>
-                <div className="container flex flex-wrap items-start gap-2 px-2 my-4">
+                <div className="container flex flex-wrap items-start gap-2 px-0 my-4">
                   {link.rows.map((row) => (
                     <CommandItem key={row.title}>
                       <Card key={row.title}>

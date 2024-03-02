@@ -8,7 +8,7 @@ export function SiteHero() {
       </p>
 
       <h1 className="text-3xl sm:text-5xl font-bold mt-2">
-        Awesome list{" "}
+        Awesome tools for{" "}
         <span className="text-amber-500 dark:text-amber-500">creativity</span>
       </h1>
     </div>
