@@ -41,22 +41,34 @@ export const ToolsConfig = [
         desc: "Design anything",
       },
       {
-        title: "Tailwindcss Color",
-        href: "https://tailwindcss.com/docs/customizing-colors",
-        icon: "/images/tailwindcss.png",
-        desc: "Customizing colors",
-      },
-      {
         title: "Radix Colors",
         href: "https://www.radix-ui.com/colors",
         icon: "/images/radix.png",
         desc: "A gorgeous, accessible color system for user interfaces",
+      },
+      {
+        title: "Tailwindcss Color",
+        href: "https://tailwindcss.com/docs/customizing-colors",
+        icon: "/images/tailwindcss.png",
+        desc: "Customizing colors",
       },
     ],
   },
   {
     title: "Icon",
     rows: [
+      {
+        title: "Radix icons",
+        href: "https://www.radix-ui.com/icons",
+        icon: "/images/radix.png",
+        desc: "A crisp set of 15x15 icons",
+      },
+      {
+        title: "Lucide",
+        href: "https://lucide.dev/",
+        icon: "/images/lucide.png",
+        desc: "Simply beautiful open-source icons",
+      },
       {
         title: "Material Icons",
         href: "https://fonts.google.com/icons",
@@ -76,10 +88,10 @@ export const ToolsConfig = [
         desc: "A library of free icons for your projects",
       },
       {
-        title: "Lucide",
-        href: "https://lucide.dev/",
-        icon: "/images/lucide.png",
-        desc: "Simply beautiful open-source icons",
+        title: "Icones 8",
+        href: "https://icones8.fr/icons/color",
+        icon: "/images/icones8.png",
+        desc: "Free icons in various styles",
       },
       {
         title: "SVGPORN",
@@ -88,16 +100,10 @@ export const ToolsConfig = [
         desc: "The best SVGs on the web",
       },
       {
-        title: "Radix icons",
-        href: "https://www.radix-ui.com/icons",
-        icon: "/images/radix.png",
-        desc: "A crisp set of 15x15 icons",
-      },
-      {
-        title: "Icones 8",
-        href: "https://icones8.fr/icons/color",
-        icon: "/images/icones8.png",
-        desc: "Free icons in various styles",
+        title: "Clearbit",
+        href: "https://clearbit.com/logo",
+        icon: "/images/clearbit.png",
+        desc: "Logo API",
       },
       {
         title: "Emojipedia",
@@ -105,47 +111,11 @@ export const ToolsConfig = [
         icon: "/images/emojipedia.png",
         desc: "Emoji search and copy platform",
       },
-      {
-        title: "Clearbit",
-        href: "https://clearbit.com/logo",
-        icon: "/images/clearbit.png",
-        desc: "Logo API",
-      },
     ],
   },
   {
     title: "Library",
     rows: [
-      {
-        title: "VuePress",
-        href: "https://vuepress.vuejs.org/",
-        icon: "/images/vuepress.png",
-        desc: "Vue-powered Static Site Generator",
-      },
-      {
-        title: "VueUse",
-        href: "https://vueuse.org/",
-        icon: "/images/vueuse.png",
-        desc: "Collection of Vue Composition Utilities",
-      },
-      {
-        title: "Vuetify",
-        href: "https://vuetifyjs.com/en/",
-        icon: "/images/vuetify.png",
-        desc: "Vue Component Framework",
-      },
-      {
-        title: "Bootstrap",
-        href: "https://getbootstrap.com/",
-        icon: "/images/bootstrap.png",
-        desc: "The world’s most popular front-end open source toolkit",
-      },
-      {
-        title: "Tailwindcss",
-        href: "https://tailwindcss.com/",
-        icon: "/images/tailwindcss.png",
-        desc: "A utility-first CSS framework for rapid UI development",
-      },
       {
         title: "shadcn UI",
         href: "https://ui.shadcn.com/",
@@ -159,10 +129,40 @@ export const ToolsConfig = [
         desc: "React component library",
       },
       {
+        title: "Tailwindcss",
+        href: "https://tailwindcss.com/",
+        icon: "/images/tailwindcss.png",
+        desc: "A utility-first CSS framework for rapid UI development",
+      },
+      {
+        title: "Bootstrap",
+        href: "https://getbootstrap.com/",
+        icon: "/images/bootstrap.png",
+        desc: "The world’s most popular front-end open source toolkit",
+      },
+      {
         title: "Tabler",
         href: "https://tabler.io/",
         icon: "/images/tabler.png",
         desc: "Open-source dashboard template",
+      },
+      {
+        title: "VueUse",
+        href: "https://vueuse.org/",
+        icon: "/images/vueuse.png",
+        desc: "Collection of Vue Composition Utilities",
+      },
+      {
+        title: "VuePress",
+        href: "https://vuepress.vuejs.org/",
+        icon: "/images/vuepress.png",
+        desc: "Vue-powered Static Site Generator",
+      },
+      {
+        title: "Vuetify",
+        href: "https://vuetifyjs.com/en/",
+        icon: "/images/vuetify.png",
+        desc: "Vue Component Framework",
       },
     ],
   },
@@ -182,16 +182,16 @@ export const ToolsConfig = [
         desc: "Google's Chatbot",
       },
       {
-        title: "Suno AI",
-        href: "https://www.suno.ai/",
-        icon: "/images/suno-ai.png",
-        desc: "Make a song",
-      },
-      {
         title: "DALL·E 2",
         href: "https://openai.com/dall-e-2",
         icon: "/images/dalle2.png",
         desc: "OpenAI's Image Generation",
+      },
+      {
+        title: "Tabnine",
+        href: "https://www.tabnine.com/",
+        icon: "/images/tabnine.png",
+        desc: "Coding assistant",
       },
       {
         title: "Upscale",
@@ -218,16 +218,16 @@ export const ToolsConfig = [
         desc: "Trace pixels to vectors",
       },
       {
-        title: "Tabnine",
-        href: "https://www.tabnine.com/",
-        icon: "/images/tabnine.png",
-        desc: "Coding assistant",
-      },
-      {
         title: "DeepAI",
         href: "https://deepai.org/",
         icon: "/images/deepai.png",
         desc: "AI tools and resources",
+      },
+      {
+        title: "Suno AI",
+        href: "https://www.suno.ai/",
+        icon: "/images/suno-ai.png",
+        desc: "Make a song",
       },
     ],
   },
@@ -253,6 +253,12 @@ export const ToolsConfig = [
         desc: "IP address and geolocation data API",
       },
       {
+        title: "Ipify API",
+        href: "https://www.ipify.org/",
+        icon: "/images/ipify.png",
+        desc: "A Simple Public IP Address API",
+      },
+      {
         title: "Openweathermap",
         href: "https://openweathermap.org/",
         icon: "/images/openweathermap.png",
@@ -264,16 +270,10 @@ export const ToolsConfig = [
         icon: "/images/ntfy.png",
         desc: "Push notifications made easy",
       },
-      {
-        title: "Ipify API",
-        href: "https://www.ipify.org/",
-        icon: "/images/ipify.png",
-        desc: "A Simple Public IP Address API",
-      },
     ],
   },
   {
-    title: "Utilities",
+    title: "Utility",
     rows: [
       {
         title: "Alternativeto",
@@ -300,18 +300,6 @@ export const ToolsConfig = [
         desc: "Understand your JSON better by visualizing",
       },
       {
-        title: "Virus Total",
-        href: "https://www.virustotal.com/gui/home/upload",
-        icon: "/images/virustotal.png",
-        desc: "Analyze suspicious files and URLs to detect types of malware",
-      },
-      {
-        title: "Regex101",
-        href: "https://regex101.com/",
-        icon: "/images/regex101.png",
-        desc: "Online regex tester and debugger",
-      },
-      {
         title: "Excalidraw",
         href: "https://excalidraw.com/",
         icon: "/images/excalidraw.png",
@@ -324,6 +312,18 @@ export const ToolsConfig = [
         desc: "Database diagram tool",
       },
       {
+        title: "Regex101",
+        href: "https://regex101.com/",
+        icon: "/images/regex101.png",
+        desc: "Online regex tester and debugger",
+      },
+      {
+        title: "Virus Total",
+        href: "https://www.virustotal.com/gui/home/upload",
+        icon: "/images/virustotal.png",
+        desc: "Analyze suspicious files and URLs to detect types of malware",
+      },
+      {
         title: "List of files by Microsoft",
         href: "https://files.rg-adguard.net/category",
         icon: "/images/ListoffilesbyMicrosoft.png",
@@ -332,7 +332,7 @@ export const ToolsConfig = [
     ],
   },
   {
-    title: "Games",
+    title: "Game",
     rows: [
       {
         title: "Flexbox Froggy",
