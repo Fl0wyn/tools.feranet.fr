@@ -24,6 +24,13 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipProvider,
+  TooltipTrigger,
+} from "@/components/ui/tooltip";
+
 export default function IndexPage() {
   const [tools, setTools] = useState(ToolsConfig);
 
@@ -46,34 +53,46 @@ export default function IndexPage() {
     }
   };
 
-  // ToolsConfig.reduce((acc, link) => acc + link.rows.length, 0)
-  // link.rows.length
-
   return (
     <>
       <SiteHero />
 
       <section className="container px-4 relative flex">
         <ul className="flex flex-wrap gap-2">
-          <li
-            className={badgeVariants({
-              variant: `${active === "All" ? "default" : "outline"}`,
-            })}
-            onClick={() => updateTools("All")}
-          >
-            All
-          </li>
-          {ToolsConfig.map((link) => (
-            <li
-              key={link.title}
-              className={badgeVariants({
-                variant: `${active === link.title ? "default" : "outline"}`,
-              })}
-              onClick={() => updateTools(link)}
-            >
-              {link.title}
-            </li>
-          ))}
+          <TooltipProvider>
+            <Tooltip>
+              <TooltipTrigger>
+                <li
+                  className={badgeVariants({
+                    variant: `${active === "All" ? "default" : "outline"}`,
+                  })}
+                  onClick={() => updateTools("All")}
+                >
+                  All
+                </li>
+              </TooltipTrigger>
+              <TooltipContent>
+                {ToolsConfig.reduce((acc, link) => acc + link.rows.length, 0)}
+              </TooltipContent>
+            </Tooltip>
+            {ToolsConfig.map((link) => (
+              <Tooltip key={link.title}>
+                <TooltipTrigger>
+                  <li
+                    className={badgeVariants({
+                      variant: `${
+                        active === link.title ? "default" : "outline"
+                      }`,
+                    })}
+                    onClick={() => updateTools(link)}
+                  >
+                    {link.title}
+                  </li>
+                </TooltipTrigger>
+                <TooltipContent>{link.rows.length}</TooltipContent>
+              </Tooltip>
+            ))}
+          </TooltipProvider>
         </ul>
       </section>
 

@@ -3,7 +3,7 @@ export type SiteConfig = typeof siteConfig;
 export const siteConfig = {
   title: "Tools Feranet",
   href: "tools.feranet.fr",
-  description: "A collection of tools for sysadmins and developers",
+  description: "A collection of tools for developers and creators",
   mainNav: [
     // {
     //   title: "",
