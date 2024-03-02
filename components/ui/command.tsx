@@ -25,8 +25,11 @@ const CommandInput = React.forwardRef<
   React.ElementRef<typeof CommandPrimitive.Input>,
   React.ComponentPropsWithoutRef<typeof CommandPrimitive.Input>
 >(({ className, ...props }, ref) => (
-  <div className="flex items-center border-b px-3" cmdk-input-wrapper="">
-    <MagnifyingGlassIcon className="mr-2 h-4 w-4 shrink-0 opacity-50" />
+  <div
+    className="flex items-center w-full border-t fixed right-0 bottom-0 sm:border-b sm:border-t-0 sm:relative px-4 py-1 z-50 bg-background"
+    cmdk-input-wrapper=""
+  >
+    <MagnifyingGlassIcon className="mr-2 h-6 w-4 shrink-0 opacity-50" />
     <CommandPrimitive.Input
       ref={ref}
       autoFocus

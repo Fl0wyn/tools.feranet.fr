@@ -2,19 +2,19 @@ export type ToolsConfig = typeof ToolsConfig;
 
 export const ToolsConfig = [
   {
-    title: "Design",
+    title: "Design & Color",
     rows: [
       {
         title: "Photopea",
         href: "https://www.photopea.com/",
         icon: "/images/photopea.png",
-        desc: "Online Photo Editor",
+        desc: "Advanced image editor",
       },
       {
         title: "Vecta",
         href: "https://vecta.io/nano",
         icon: "/images/vecta.png",
-        desc: "Optimize SVG",
+        desc: "World's Best SVG Compressor",
       },
       {
         title: "Convertio",
@@ -24,15 +24,15 @@ export const ToolsConfig = [
       },
       {
         title: "Haikei",
-        href: "https://app.haikei.app/",
+        href: "https://haikei.app/",
         icon: "/images/haikei.png",
-        desc: "Generate SVG shapes",
+        desc: "Generate unique SVG design assets",
       },
       {
         title: "Base64 Image",
         href: "https://www.base64-image.de/",
-        icon: "/images/base64-image.png",
-        desc: "Convert image to base64",
+        icon: "/images/base64.png",
+        desc: "Convert your images to Base64",
       },
       {
         title: "Tailwindcss Color",
@@ -40,10 +40,16 @@ export const ToolsConfig = [
         icon: "/images/tailwindcss.png",
         desc: "Customizing colors",
       },
+      {
+        title: "Radix Colors",
+        href: "https://www.radix-ui.com/colors",
+        icon: "/images/radix.png",
+        desc: "A gorgeous, accessible color system for user interfaces",
+      },
     ],
   },
   {
-    title: "Icon",
+    title: "Icon & Logo",
     rows: [
       {
         title: "Material Icons",
@@ -78,8 +84,8 @@ export const ToolsConfig = [
       {
         title: "Radix icons",
         href: "https://www.radix-ui.com/icons",
-        icon: "/images/radix-icons.png",
-        desc: "A crisp set of 15×15 icons",
+        icon: "/images/radix.png",
+        desc: "A crisp set of 15x15 icons",
       },
       {
         title: "Icones 8",
@@ -102,7 +108,7 @@ export const ToolsConfig = [
     ],
   },
   {
-    title: "Library",
+    title: "Library & Frameworks",
     rows: [
       {
         title: "VuePress",
@@ -177,7 +183,7 @@ export const ToolsConfig = [
       },
       {
         title: "DALL·E 2",
-        href: "https://labs.openai.com/",
+        href: "https://openai.com/dall-e-2",
         icon: "/images/dalle2.png",
         desc: "OpenAI's Image Generation",
       },
@@ -185,7 +191,7 @@ export const ToolsConfig = [
         title: "Upscale",
         href: "https://www.upscale.media/",
         icon: "/images/upscale.png",
-        desc: "AI Image Upscaling and Enhancement",
+        desc: "Image Upscaling and Enhancement",
       },
       {
         title: "Remove bg",
@@ -197,13 +203,19 @@ export const ToolsConfig = [
         title: "Watermark Remover",
         href: "https://www.watermarkremover.io/",
         icon: "/images/watermark-remover.png",
-        desc: "Remove Watermark",
+        desc: "Remove watermarks",
       },
       {
         title: "Vectorizer",
         href: "https://vectorizer.ai/",
         icon: "/images/vectorizer.png",
-        desc: "Convert any image to vector",
+        desc: "Trace pixels to vectors",
+      },
+      {
+        title: "Tabnine",
+        href: "https://www.tabnine.com/",
+        icon: "/images/tabnine.png",
+        desc: "Coding assistant",
       },
     ],
   },
@@ -218,7 +230,7 @@ export const ToolsConfig = [
       },
       {
         title: "Openweathermap",
-        href: "https://openweathermap.org/current",
+        href: "https://openweathermap.org/",
         icon: "/images/openweathermap.png",
         desc: "Weather data API",
       },
@@ -237,29 +249,29 @@ export const ToolsConfig = [
     ],
   },
   {
-    title: "Dev",
+    title: "Dev Tools & Utilities",
     rows: [
       {
         title: "Alternativeto",
         href: "https://alternativeto.net/",
         icon: "/images/alternativeto.png",
-        desc: "Find software alternatives",
+        desc: "Find alternatives to software",
       },
       {
         title: "Useful Forks",
         href: "https://useful-forks.github.io/",
         icon: "/images/useful-forks.png",
-        desc: "A collection of useful forks",
+        desc: "Find useful forks of GitHub repositories",
       },
       {
         title: "Readmi",
-        href: "https://readmi.xyz/editor",
+        href: "https://readmi.xyz/",
         icon: "/images/readmi.png",
-        desc: "Create a beautiful README for your GitHub profile",
+        desc: "Create a beautiful README",
       },
       {
         title: "Json Crack",
-        href: "https://jsoncrack.com/editor",
+        href: "https://jsoncrack.com/",
         icon: "/images/json-crack.png",
         desc: "Understand your JSON better by visualizing",
       },

@@ -22,7 +22,7 @@ export function SiteHeader() {
               <div
                 className={buttonVariants({
                   size: "icon",
-                  variant: "ghost",
+                  variant: "link",
                 })}
               >
                 <GitHubLogoIcon className="h-5 w-5" />

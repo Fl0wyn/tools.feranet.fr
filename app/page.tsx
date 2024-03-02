@@ -1,3 +1,4 @@
+import { SiteHero } from "@/components/site-hero";
 import { ToolsConfig } from "@/config/tools";
 import Image from "next/image";
 import Link from "next/link";
@@ -20,13 +21,14 @@ import {
 
 export default function IndexPage() {
   return (
-    <div className="w-full bg-background dark:bg-grid-small-white/[0.2] bg-grid-small-black/[0.2] relative flex">
+    <div className="w-full bg-background dark:bg-dot-white/[0.2] bg-dot-black/[0.2] relative">
       <div className="absolute pointer-events-none inset-0 bg-background [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
+      <SiteHero />
       <section className="container py-4 md:py-8 z-20 flex">
-        <Command className="border">
+        <Command className="border relative">
           <CommandInput placeholder="Search..." />
           <CommandList>
-            <CommandEmpty>No results found.</CommandEmpty>
+            <CommandEmpty>No results found</CommandEmpty>
             {ToolsConfig.map((link) => (
               <CommandGroup key={link.title} heading={link.title}>
                 <div className="container flex flex-wrap items-start gap-2 px-2 my-4">
