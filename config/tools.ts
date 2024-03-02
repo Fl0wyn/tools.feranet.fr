@@ -146,6 +146,12 @@ export const ToolsConfig = [
         icon: "/images/aceternity-ui.png",
         desc: "React component library",
       },
+      {
+        title: "Tabler",
+        href: "https://tabler.io/",
+        icon: "/images/tabler.png",
+        desc: "Open-source dashboard template",
+      },
     ],
   },
   {
