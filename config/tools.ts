@@ -227,13 +227,13 @@ export const ToolsConfig = [
         title: "Leonardo",
         href: "https://leonardo.ai/",
         icon: "/images/leonardo.webp",
-        desc: "Image generation",
+        desc: "Image generator",
       },
       {
         title: "Seaart",
         href: "https://www.seaart.ai/",
         icon: "/images/seaart.webp",
-        desc: "AI art",
+        desc: "Image generator",
       },
       {
         title: "Suno AI",

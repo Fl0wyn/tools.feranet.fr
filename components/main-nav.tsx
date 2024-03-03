@@ -14,7 +14,7 @@ export function MainNav({ items }: MainNavProps) {
     <div className="flex gap-6 md:gap-10">
       <Link href="/" className="flex items-center space-x-2">
         <Image src="/logo.svg" alt="Logo" width={28} height={28} />
-        <span className="inline-block font-bold">{siteConfig.title}</span>
+        <span className="inline-block font-bold ps-1">{siteConfig.title}</span>
       </Link>
       {items?.length ? (
         <nav className="flex gap-6">
