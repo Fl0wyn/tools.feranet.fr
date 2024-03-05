@@ -388,6 +388,18 @@ export const ToolsConfig = [
         icon: "/images/gridgarden.webp",
         desc: "A game for learning CSS grid",
       },
+      {
+        title: "Flexbox Defense",
+        href: "http://www.flexboxdefense.com/",
+        icon: "/images/flexboxdefense.webp",
+        desc: "A game for learning CSS flexbox",
+      },
+      {
+        title: "CSS Diner",
+        href: "https://flukeout.github.io/",
+        icon: "/images/cssdiner.webp",
+        desc: "A game for learning CSS selectors",
+      },
     ],
   },
 ];
