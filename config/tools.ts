@@ -176,6 +176,12 @@ export const ToolsConfig = [
         desc: "OpenAI's Chatbot",
       },
       {
+        title: "Bing Copilot",
+        href: "https://www.bing.com/chat",
+        icon: "/images/bing-copilot.webp",
+        desc: "Microsoft's Chatbot",
+      },
+      {
         title: "Gemini",
         href: "https://gemini.google.com/",
         icon: "/images/gemini.webp",
@@ -186,6 +192,12 @@ export const ToolsConfig = [
         href: "https://openai.com/dall-e-2",
         icon: "/images/dalle2.webp",
         desc: "OpenAI's Image Generation",
+      },
+      {
+        title: "Github Copilot",
+        href: "https://copilot.github.com/",
+        icon: "/images/github-copilot.webp",
+        desc: "Coding assistant",
       },
       {
         title: "Tabnine",
