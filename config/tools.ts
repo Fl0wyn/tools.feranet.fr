@@ -271,6 +271,12 @@ export const ToolsConfig = [
         icon: "/images/capcut.webp",
         desc: "Video editing",
       },
+      {
+        title: "Deepl",
+        href: "https://www.deepl.com/translator",
+        icon: "/images/deepl.webp",
+        desc: "Translator",
+      },
     ],
   },
   {
