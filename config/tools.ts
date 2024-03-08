@@ -236,6 +236,12 @@ export const ToolsConfig = [
         desc: "AI tools and resources",
       },
       {
+        title: "Ideogram",
+        href: "https://ideogram.ai/",
+        icon: "/images/ideogram.webp",
+        desc: "Image generator",
+      },
+      {
         title: "Leonardo",
         href: "https://leonardo.ai/",
         icon: "/images/leonardo.webp",
