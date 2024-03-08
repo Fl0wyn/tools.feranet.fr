@@ -1,6 +1,6 @@
-export type ToolsConfig = typeof ToolsConfig;
+export type ToolsConfig = typeof toolsConfig;
 
-export const ToolsConfig = [
+export const toolsConfig = [
   {
     title: "Design",
     rows: [

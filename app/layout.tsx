@@ -1,5 +1,6 @@
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
+import { SiteHero } from "@/components/site-hero";
 import { ThemeProvider } from "@/components/theme-provider";
 import { siteConfig } from "@/config/site";
 import { cn } from "@/lib/utils";
@@ -29,7 +30,10 @@ export default function RootLayout({
           <div className="relative flex min-h-screen flex-col bg-background dark:bg-dot-white/[0.2] bg-dot-black/[0.2]">
             <SiteHeader />
             <div className="absolute pointer-events-none inset-0 bg-background [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
-            <div className="flex-1 h-full">{children}</div>
+            <div className="flex-1 h-full">
+              <SiteHero />
+              {children}
+            </div>
             <SiteFooter />
           </div>
         </ThemeProvider>

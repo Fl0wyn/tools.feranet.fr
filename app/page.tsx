@@ -1,9 +1,8 @@
 "use client";
-
-import { SiteHero } from "@/components/site-hero";
-import { ToolsConfig } from "@/config/tools";
-import Image from "next/image";
 import Link from "next/link";
+
+import { toolsConfig, ToolsConfig } from "@/config/tools";
+import Image from "next/image";
 import { useState } from "react";
 
 import { badgeVariants } from "@/components/ui/badge";
@@ -25,21 +24,14 @@ import {
 } from "@/components/ui/card";
 
 export default function IndexPage() {
-  const [tools, setTools] = useState(ToolsConfig);
+  const [tools, setTools] = useState(toolsConfig);
 
   const [active, setActive] = useState("All");
 
-  const updateTools = (
-    link:
-      | {
-          title: string;
-          rows: { title: string; href: string; icon: string; desc: string }[];
-        }
-      | "All"
-  ) => {
+  const updateTools = (link: ToolsConfig[0] | "All") => {
     if (link === "All") {
       setActive("All");
-      return setTools(ToolsConfig);
+      return setTools(toolsConfig);
     } else {
       setTools([link]);
       setActive(link.title);
@@ -48,8 +40,6 @@ export default function IndexPage() {
 
   return (
     <>
-      <SiteHero />
-
       <section className="container px-4 relative flex">
         <ul className="flex flex-wrap gap-2">
           <li
@@ -60,7 +50,7 @@ export default function IndexPage() {
           >
             All
           </li>
-          {ToolsConfig.map((link) => (
+          {toolsConfig.map((link) => (
             <li
               key={link.title}
               className={badgeVariants({
@@ -77,7 +67,7 @@ export default function IndexPage() {
       <section className="container px-4 pt-4 z-20 relative flex">
         <Command className="border">
           <CommandInput
-            placeholder={`Search on ${ToolsConfig.reduce(
+            placeholder={`Search on ${toolsConfig.reduce(
               (acc, link) => acc + link.rows.length,
               0
             )} tools`}
@@ -86,7 +76,7 @@ export default function IndexPage() {
             <CommandEmpty>No results found</CommandEmpty>
             {tools.map((link) => (
               <CommandGroup key={link.title} heading={link.title}>
-                <div className="container flex flex-wrap gap-2 px-0 my-4">
+                <div className="container flex flex-wrap gap-2 px-[0.05rem] mt-4">
                   {link.rows.map((row) => (
                     <CommandItem key={row.title}>
                       <Card key={row.title}>
