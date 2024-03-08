@@ -254,6 +254,12 @@ export const ToolsConfig = [
         desc: "Image generator",
       },
       {
+        title: "Clipdrop - Uncrop",
+        href: "https://clipdrop.co/uncrop",
+        icon: "/images/clipdrop-uncrop.webp",
+        desc: "Uncrop images",
+      },
+      {
         title: "Suno AI",
         href: "https://www.suno.ai/",
         icon: "/images/suno-ai.webp",
