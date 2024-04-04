@@ -188,6 +188,24 @@ export const toolsConfig = [
         desc: "Google's Chatbot",
       },
       {
+        title: "Perplexity",
+        href: "https://www.perplexity.ai/",
+        icon: "/images/perplexity.webp",
+        desc: "Alternative chatbot",
+      },
+      {
+        title: "Mistral",
+        href: "https://mistral.ai/",
+        icon: "/images/mistral.webp",
+        desc: "Open source AI",
+      },
+      {
+        title: "DALL·E 2",
+        href: "https://openai.com/dall-e-2",
+        icon: "/images/dalle2.webp",
+        desc: "OpenAI's Image Generation",
+      },
+      {
         title: "Github Copilot",
         href: "https://copilot.github.com/",
         icon: "/images/github-copilot.webp",
@@ -228,12 +246,6 @@ export const toolsConfig = [
         href: "https://deepai.org/",
         icon: "/images/deepai.webp",
         desc: "AI tools and resources",
-      },
-      {
-        title: "DALL·E 2",
-        href: "https://openai.com/dall-e-2",
-        icon: "/images/dalle2.webp",
-        desc: "OpenAI's Image Generation",
       },
       {
         title: "Ideogram",
@@ -381,7 +393,7 @@ export const toolsConfig = [
         title: "Virus Total",
         href: "https://www.virustotal.com/gui/home/upload",
         icon: "/images/virustotal.webp",
-        desc: "Analyze suspicious files and URL",
+        desc: "Analyze suspicious files and URLs to detect types of malware",
       },
       {
         title: "List of files by Microsoft",
