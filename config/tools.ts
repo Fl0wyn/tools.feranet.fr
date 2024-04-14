@@ -278,6 +278,12 @@ export const toolsConfig = [
         desc: "Make a song",
       },
       {
+        title: "Udio",
+        href: "https://www.udio.com/",
+        icon: "/images/udio.webp",
+        desc: "Make your music",
+      },
+      {
         title: "Elevenlabs",
         href: "https://elevenlabs.io/",
         icon: "/images/elevenlabs.webp",
