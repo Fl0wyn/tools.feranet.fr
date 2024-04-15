@@ -44,6 +44,7 @@ export const toolsConfig = [
         title: "Radix Colors",
         href: "https://www.radix-ui.com/colors",
         icon: "/images/radix.webp",
+        iconDark: "/images/radix-dark.webp",
         desc: "A gorgeous, accessible color system for user interfaces",
       },
       {
@@ -61,6 +62,7 @@ export const toolsConfig = [
         title: "Radix icons",
         href: "https://www.radix-ui.com/icons",
         icon: "/images/radix.webp",
+        iconDark: "/images/radix-dark.webp",
         desc: "A crisp set of 15x15 icons",
       },
       {
@@ -209,6 +211,7 @@ export const toolsConfig = [
         title: "Github Copilot",
         href: "https://copilot.github.com/",
         icon: "/images/github-copilot.webp",
+        iconDark: "/images/github-copilot-dark.webp",
         desc: "Coding assistant",
       },
       {
@@ -269,6 +272,7 @@ export const toolsConfig = [
         title: "Clipdrop",
         href: "https://clipdrop.co/",
         icon: "/images/clipdrop.webp",
+        iconDark: "/images/clipdrop-dark.webp",
         desc: "Image generator and editor",
       },
       {
@@ -316,12 +320,14 @@ export const toolsConfig = [
         title: "Jsonplaceholder",
         href: "https://jsonplaceholder.typicode.com/",
         icon: "/images/jsonplaceholder.webp",
+        iconDark: "/images/jsonplaceholder-dark.webp",
         desc: "Fake Online REST API for Testing and Prototyping",
       },
       {
         title: "Unsplash",
         href: "https://unsplash.com/developers",
         icon: "/images/unsplash.webp",
+        iconDark: "/images/unsplash-dark.webp",
         desc: "The internet’s source of freely-usable images",
       },
       {
@@ -369,6 +375,7 @@ export const toolsConfig = [
         title: "Readmi",
         href: "https://readmi.xyz/",
         icon: "/images/readmi.webp",
+        iconDark: "/images/readmi-dark.webp",
         desc: "Create a beautiful README",
       },
       {
@@ -428,6 +435,7 @@ export const toolsConfig = [
         title: "Flexbox Defense",
         href: "http://www.flexboxdefense.com/",
         icon: "/images/flexboxdefense.webp",
+        iconDark: "/images/flexboxdefense-dark.webp",
         desc: "A game for learning CSS flexbox",
       },
       {

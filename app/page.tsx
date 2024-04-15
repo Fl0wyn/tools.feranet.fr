@@ -23,6 +23,8 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 
+import { useTheme } from "next-themes";
+
 export default function IndexPage() {
   const [tools, setTools] = useState(toolsConfig);
 
@@ -37,6 +39,9 @@ export default function IndexPage() {
       setActive(link.title);
     }
   };
+
+  const { theme } = useTheme();
+  const isDark = theme === "dark";
 
   return (
     <>
@@ -84,7 +89,9 @@ export default function IndexPage() {
                           <CardHeader>
                             <CardTitle>
                               <Image
-                                src={row.icon}
+                                src={
+                                  isDark ? row.iconDark ?? row.icon : row.icon
+                                }
                                 className="h-5 me-2"
                                 width={20}
                                 height={20}
