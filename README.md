@@ -23,6 +23,7 @@ npm run dev
 | <img src="public/images/haikei.webp" width="12" /> Haikei                 | https://haikei.app/                             |
 | <img src="public/images/base64.webp" width="12" /> Base64 Image           | https://www.base64-image.de/                    |
 | <img src="public/images/canva.webp" width="12" /> Canva                   | https://www.canva.com/                          |
+| <img src="public/images/trangram.webp" width="12" /> Trangram             | https://www.trangram.com/                       |
 | <img src="public/images/radix.webp" width="12" /> Radix Colors            | https://www.radix-ui.com/colors                 |
 | <img src="public/images/tailwindcss.webp" width="12" /> Tailwindcss Color | https://tailwindcss.com/docs/customizing-colors |
 

@@ -42,6 +42,12 @@ export const toolsConfig = [
         desc: "Design anything",
       },
       {
+        title: "Trangram",
+        href: "https://www.trangram.com/",
+        icon: "/images/trangram.webp",
+        desc: "Create motion graphics on one platform",
+      },
+      {
         title: "Radix Colors",
         href: "https://www.radix-ui.com/colors",
         icon: "/images/radix.webp",
