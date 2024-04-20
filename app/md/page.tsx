@@ -5,7 +5,7 @@ export default function Md() {
     <div className="absolute top-0 w-full h-full z-50 bg-background">
       {toolsConfig.map((link) => (
         <div key={link.title}>
-          #### {link.title}
+          ### {link.title}
           <table>
             <thead>
               <tr>
@@ -24,7 +24,7 @@ export default function Md() {
                     <pre className="absolute">
                       |{`<img src="public`}
                       {row.icon}
-                      {`" width="11" />`} {row.title}
+                      {`" width="12" />`} {row.title}
                     </pre>
                   </td>
                   <td>

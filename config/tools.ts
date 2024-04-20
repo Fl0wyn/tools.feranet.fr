@@ -1,3 +1,4 @@
+
 export type ToolsConfig = typeof toolsConfig;
 
 export const toolsConfig = [
@@ -199,7 +200,13 @@ export const toolsConfig = [
         title: "Mistral",
         href: "https://mistral.ai/",
         icon: "/images/mistral.webp",
-        desc: "Open source AI",
+        desc: "Alternative chatbot",
+      },
+      {
+        title: "Claude",
+        href: "https://claude.ai/",
+        icon: "/images/claude.webp",
+        desc: "Alternative chatbot",
       },
       {
         title: "DALL·E 2",
