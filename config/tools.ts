@@ -282,6 +282,13 @@ export const toolsConfig = [
         desc: "Image generator",
       },
       {
+        title: "Midjourney",
+        href: "https://www.midjourney.com/",
+        icon: "/images/midjourney.webp",
+        iconDark: "/images/midjourney-dark.webp",
+        desc: "Image generator",
+      },
+      {
         title: "Clipdrop",
         href: "https://clipdrop.co/",
         icon: "/images/clipdrop.webp",
