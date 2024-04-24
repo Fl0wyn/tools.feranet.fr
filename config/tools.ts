@@ -337,6 +337,24 @@ export const toolsConfig = [
         desc: "Video editing",
       },
       {
+        title: "Submagic",
+        href: "https://www.submagic.co/",
+        icon: "/images/submagic.webp",
+        desc: "Subtitle editor",
+      },
+      {
+        title: "Interior AI",
+        href: "https://interiorai.com/",
+        icon: "/images/interiorai.webp",
+        desc: "AI-generated interior design",
+      },
+      {
+        title: "Room GPT",
+        href: "https://www.roomgpt.io/",
+        icon: "/images/roomgpt.webp",
+        desc: "AI-generated room design",
+      },
+      {
         title: "Deepl",
         href: "https://www.deepl.com/translator",
         icon: "/images/deepl.webp",

@@ -84,6 +84,9 @@ npm run dev
 | <img src="public/images/elevenlabs.webp" width="12" /> Elevenlabs               | https://elevenlabs.io/            |
 | <img src="public/images/pika.webp" width="12" /> Pika                           | https://pika.art/                 |
 | <img src="public/images/capcut.webp" width="12" /> Capcut                       | https://www.capcut.com/           |
+| <img src="public/images/submagic.webp" width="12" /> Submagic                   | https://www.submagic.co/          |
+| <img src="public/images/interiorai.webp" width="12" /> Interior AI              | https://interiorai.com/           |
+| <img src="public/images/roomgpt.webp" width="12" /> Room GPT                    | https://www.roomgpt.io/           |
 | <img src="public/images/deepl.webp" width="12" /> Deepl                         | https://www.deepl.com/translator  |
 
 ### API
