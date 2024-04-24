@@ -1,4 +1,3 @@
-
 export type ToolsConfig = typeof toolsConfig;
 
 export const toolsConfig = [
@@ -215,6 +214,12 @@ export const toolsConfig = [
         desc: "Alternative chatbot",
       },
       {
+        title: "Groq",
+        href: "https://groq.com/",
+        icon: "/images/groq.webp",
+        desc: "Alternative chatbot",
+      },
+      {
         title: "DALL·E 2",
         href: "https://openai.com/dall-e-2",
         icon: "/images/dalle2.webp",
@@ -306,6 +311,12 @@ export const toolsConfig = [
         href: "https://www.udio.com/",
         icon: "/images/udio.webp",
         desc: "Make your music",
+      },
+      {
+        title: "Audiobox",
+        href: "https://audiobox.metademolab.com/",
+        icon: "/images/audiobox.webp",
+        desc: "Sound and voice generator",
       },
       {
         title: "Elevenlabs",

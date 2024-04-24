@@ -56,33 +56,35 @@ npm run dev
 
 ### AI
 
-| Name                                                                            | URL                              |
-| ------------------------------------------------------------------------------- | -------------------------------- |
-| <img src="public/images/chatgpt.webp" width="12" /> ChatGPT                     | https://chat.openai.com/         |
-| <img src="public/images/bing-copilot.webp" width="12" /> Bing Copilot           | https://www.bing.com/chat        |
-| <img src="public/images/gemini.webp" width="12" /> Gemini                       | https://gemini.google.com/       |
-| <img src="public/images/perplexity.webp" width="12" /> Perplexity               | https://www.perplexity.ai/       |
-| <img src="public/images/mistral.webp" width="12" /> Mistral                     | https://mistral.ai/              |
-| <img src="public/images/claude.webp" width="12" /> Claude                       | https://claude.ai/               |
-| <img src="public/images/dalle2.webp" width="12" /> DALL·E 2                     | https://openai.com/dall-e-2      |
-| <img src="public/images/github-copilot.webp" width="12" /> Github Copilot       | https://copilot.github.com/      |
-| <img src="public/images/tabnine.webp" width="12" /> Tabnine                     | https://www.tabnine.com/         |
-| <img src="public/images/upscale.webp" width="12" /> Upscale                     | https://www.upscale.media/       |
-| <img src="public/images/remove-bg.webp" width="12" /> Remove bg                 | https://www.remove.bg/           |
-| <img src="public/images/watermark-remover.webp" width="12" /> Watermark Remover | https://www.watermarkremover.io/ |
-| <img src="public/images/vectorizer.webp" width="12" /> Vectorizer               | https://vectorizer.ai/           |
-| <img src="public/images/deepai.webp" width="12" /> DeepAI                       | https://deepai.org/              |
-| <img src="public/images/ideogram.webp" width="12" /> Ideogram                   | https://ideogram.ai/             |
-| <img src="public/images/leonardo.webp" width="12" /> Leonardo                   | https://leonardo.ai/             |
-| <img src="public/images/seaart.webp" width="12" /> Seaart                       | https://www.seaart.ai/           |
-| <img src="public/images/midjourney.webp" width="12" /> Midjourney               | https://www.midjourney.com/      |
-| <img src="public/images/clipdrop.webp" width="12" /> Clipdrop                   | https://clipdrop.co/             |
-| <img src="public/images/suno-ai.webp" width="12" /> Suno AI                     | https://www.suno.ai/             |
-| <img src="public/images/udio.webp" width="12" /> Udio                           | https://www.udio.com/            |
-| <img src="public/images/elevenlabs.webp" width="12" /> Elevenlabs               | https://elevenlabs.io/           |
-| <img src="public/images/pika.webp" width="12" /> Pika                           | https://pika.art/                |
-| <img src="public/images/capcut.webp" width="12" /> Capcut                       | https://www.capcut.com/          |
-| <img src="public/images/deepl.webp" width="12" /> Deepl                         | https://www.deepl.com/translator |
+| Name                                                                            | URL                               |
+| ------------------------------------------------------------------------------- | --------------------------------- |
+| <img src="public/images/chatgpt.webp" width="12" /> ChatGPT                     | https://chat.openai.com/          |
+| <img src="public/images/bing-copilot.webp" width="12" /> Bing Copilot           | https://www.bing.com/chat         |
+| <img src="public/images/gemini.webp" width="12" /> Gemini                       | https://gemini.google.com/        |
+| <img src="public/images/perplexity.webp" width="12" /> Perplexity               | https://www.perplexity.ai/        |
+| <img src="public/images/mistral.webp" width="12" /> Mistral                     | https://mistral.ai/               |
+| <img src="public/images/claude.webp" width="12" /> Claude                       | https://claude.ai/                |
+| <img src="public/images/groq.webp" width="12" /> Groq                           | https://groq.com/                 |
+| <img src="public/images/dalle2.webp" width="12" /> DALL·E 2                     | https://openai.com/dall-e-2       |
+| <img src="public/images/github-copilot.webp" width="12" /> Github Copilot       | https://copilot.github.com/       |
+| <img src="public/images/tabnine.webp" width="12" /> Tabnine                     | https://www.tabnine.com/          |
+| <img src="public/images/upscale.webp" width="12" /> Upscale                     | https://www.upscale.media/        |
+| <img src="public/images/remove-bg.webp" width="12" /> Remove bg                 | https://www.remove.bg/            |
+| <img src="public/images/watermark-remover.webp" width="12" /> Watermark Remover | https://www.watermarkremover.io/  |
+| <img src="public/images/vectorizer.webp" width="12" /> Vectorizer               | https://vectorizer.ai/            |
+| <img src="public/images/deepai.webp" width="12" /> DeepAI                       | https://deepai.org/               |
+| <img src="public/images/ideogram.webp" width="12" /> Ideogram                   | https://ideogram.ai/              |
+| <img src="public/images/leonardo.webp" width="12" /> Leonardo                   | https://leonardo.ai/              |
+| <img src="public/images/seaart.webp" width="12" /> Seaart                       | https://www.seaart.ai/            |
+| <img src="public/images/midjourney.webp" width="12" /> Midjourney               | https://www.midjourney.com/       |
+| <img src="public/images/clipdrop.webp" width="12" /> Clipdrop                   | https://clipdrop.co/              |
+| <img src="public/images/suno-ai.webp" width="12" /> Suno AI                     | https://www.suno.ai/              |
+| <img src="public/images/udio.webp" width="12" /> Udio                           | https://www.udio.com/             |
+| <img src="public/images/audiobox.webp" width="12" /> Audiobox                   | https://audiobox.metademolab.com/ |
+| <img src="public/images/elevenlabs.webp" width="12" /> Elevenlabs               | https://elevenlabs.io/            |
+| <img src="public/images/pika.webp" width="12" /> Pika                           | https://pika.art/                 |
+| <img src="public/images/capcut.webp" width="12" /> Capcut                       | https://www.capcut.com/           |
+| <img src="public/images/deepl.webp" width="12" /> Deepl                         | https://www.deepl.com/translator  |
 
 ### API
 
