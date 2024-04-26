@@ -1,3 +1,4 @@
+
 export type ToolsConfig = typeof toolsConfig;
 
 export const toolsConfig = [
@@ -299,6 +300,12 @@ export const toolsConfig = [
         icon: "/images/clipdrop.webp",
         iconDark: "/images/clipdrop-dark.webp",
         desc: "Image generator and editor",
+      },
+      {
+        title: "Remaker",
+        href: "https://remaker.ai/",
+        icon: "/images/remaker.webp",
+        desc: "AI face swap",
       },
       {
         title: "Suno AI",

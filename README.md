@@ -78,6 +78,7 @@ npm run dev
 | <img src="public/images/seaart.webp" width="12" /> Seaart                       | https://www.seaart.ai/            |
 | <img src="public/images/midjourney.webp" width="12" /> Midjourney               | https://www.midjourney.com/       |
 | <img src="public/images/clipdrop.webp" width="12" /> Clipdrop                   | https://clipdrop.co/              |
+| <img src="public/images/remaker.webp" width="12" /> Remaker                     | https://remaker.ai/               |
 | <img src="public/images/suno-ai.webp" width="12" /> Suno AI                     | https://www.suno.ai/              |
 | <img src="public/images/udio.webp" width="12" /> Udio                           | https://www.udio.com/             |
 | <img src="public/images/audiobox.webp" width="12" /> Audiobox                   | https://audiobox.metademolab.com/ |
