@@ -1,4 +1,3 @@
-
 export type ToolsConfig = typeof toolsConfig;
 
 export const toolsConfig = [
@@ -332,6 +331,12 @@ export const toolsConfig = [
         desc: "Generative voice AI",
       },
       {
+        title: "Heygen",
+        href: "https://www.heygen.com/",
+        icon: "/images/heygen.webp",
+        desc: "Video & generative voice",
+      },
+      {
         title: "Pika",
         href: "https://pika.art/",
         icon: "/images/pika.webp",
@@ -360,6 +365,12 @@ export const toolsConfig = [
         href: "https://www.roomgpt.io/",
         icon: "/images/roomgpt.webp",
         desc: "AI-generated room design",
+      },
+      {
+        title: "Mylens",
+        href: "https://mylens.ai/",
+        icon: "/images/mylens.webp",
+        desc: "Timeline, mindmap generator",
       },
       {
         title: "Deepl",
