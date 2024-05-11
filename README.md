@@ -68,6 +68,7 @@ npm run dev
 | <img src="public/images/dalle2.webp" width="12" /> DALL·E 2                     | https://openai.com/dall-e-2       |
 | <img src="public/images/github-copilot.webp" width="12" /> Github Copilot       | https://copilot.github.com/       |
 | <img src="public/images/tabnine.webp" width="12" /> Tabnine                     | https://www.tabnine.com/          |
+| <img src="public/images/v0.webp" width="12" /> V0                               | https://v0.dev/                   |
 | <img src="public/images/upscale.webp" width="12" /> Upscale                     | https://www.upscale.media/        |
 | <img src="public/images/remove-bg.webp" width="12" /> Remove bg                 | https://www.remove.bg/            |
 | <img src="public/images/watermark-remover.webp" width="12" /> Watermark Remover | https://www.watermarkremover.io/  |

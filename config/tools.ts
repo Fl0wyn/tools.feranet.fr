@@ -239,6 +239,13 @@ export const toolsConfig = [
         desc: "Coding assistant",
       },
       {
+        title: "V0",
+        href: "https://v0.dev/",
+        icon: "/images/v0.webp",
+        iconDark: "/images/v0-dark.webp",
+        desc: "Generate UI with shadcn/ui",
+      },
+      {
         title: "Upscale",
         href: "https://www.upscale.media/",
         icon: "/images/upscale.webp",
