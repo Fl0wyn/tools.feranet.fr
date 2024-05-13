@@ -380,6 +380,18 @@ export const toolsConfig = [
         desc: "Timeline, mindmap generator",
       },
       {
+        title: "Pinokio",
+        href: "https://pinokio.computer/",
+        icon: "/images/pinokio.webp",
+        desc: "Install, run, and programmatically control ANY application",
+      },
+      {
+        title: "Ollama",
+        href: "https://ollama.com/",
+        icon: "/images/ollama.webp",
+        desc: "Run Llama 3, Phi 3, Mistral, Gemma, and other models",
+      },
+      {
         title: "Deepl",
         href: "https://www.deepl.com/translator",
         icon: "/images/deepl.webp",

@@ -91,6 +91,8 @@ npm run dev
 | <img src="public/images/interiorai.webp" width="12" /> Interior AI              | https://interiorai.com/           |
 | <img src="public/images/roomgpt.webp" width="12" /> Room GPT                    | https://www.roomgpt.io/           |
 | <img src="public/images/mylens.webp" width="12" /> Mylens                       | https://mylens.ai/                |
+| <img src="public/images/pinokio.webp" width="12" /> Pinokio                     | https://pinokio.computer/         |
+| <img src="public/images/ollama.webp" width="12" /> Ollama                       | https://ollama.com/               |
 | <img src="public/images/deepl.webp" width="12" /> Deepl                         | https://www.deepl.com/translator  |
 
 ### API
