@@ -314,6 +314,19 @@ export const toolsConfig = [
         desc: "AI face swap",
       },
       {
+        title: "Magnific",
+        href: "https://magnific.ai/",
+        icon: "/images/magnific.webp",
+        desc: "Image enhancer",
+      },
+      {
+        title: "Fooocus",
+        href: "https://github.com/lllyasviel/Fooocus",
+        icon: "/images/github-copilot.webp",
+        iconDark: "/images/github-copilot-dark.webp",
+        desc: "Focus on prompting and generating",
+      },
+      {
         title: "Suno AI",
         href: "https://www.suno.ai/",
         icon: "/images/suno-ai.webp",
