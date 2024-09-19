@@ -26,6 +26,7 @@ npm run dev
 | <img src="public/images/trangram.webp" width="12" /> Trangram             | https://www.trangram.com/                       |
 | <img src="public/images/radix.webp" width="12" /> Radix Colors            | https://www.radix-ui.com/colors                 |
 | <img src="public/images/tailwindcss.webp" width="12" /> Tailwindcss Color | https://tailwindcss.com/docs/customizing-colors |
+| <img src="public/images/picocss.webp" width="12" /> Pico CSS              | https://picocss.com/                            |
 
 ### Icon
 

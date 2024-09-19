@@ -59,6 +59,12 @@ export const toolsConfig = [
         icon: "/images/tailwindcss.webp",
         desc: "Customizing colors",
       },
+      {
+        title: "Pico CSS",
+        href: "https://picocss.com/",
+        icon: "/images/picocss.webp",
+        desc: "Minimal CSS Framework",
+      },
     ],
   },
   {
