@@ -519,6 +519,12 @@ export const toolsConfig = [
         icon: "/images/ListoffilesbyMicrosoft.webp",
         desc: "Download Windows ISOs",
       },
+      {
+        title: "Reveal.js",
+        href: "https://revealjs.com/",
+        icon: "/images/revealjs.webp",
+        desc: "The HTML Presentation Framework",
+      },
     ],
   },
   {
