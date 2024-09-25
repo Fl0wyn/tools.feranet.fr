@@ -128,7 +128,7 @@ export const toolsConfig = [
     ],
   },
   {
-    title: "Library",
+    title: "UI Library",
     rows: [
       {
         title: "shadcn UI",
@@ -518,12 +518,6 @@ export const toolsConfig = [
         href: "https://files.rg-adguard.net/category",
         icon: "/images/ListoffilesbyMicrosoft.webp",
         desc: "Download Windows ISOs",
-      },
-      {
-        title: "Reveal.js",
-        href: "https://revealjs.com/",
-        icon: "/images/revealjs.webp",
-        desc: "The HTML Presentation Framework",
       },
     ],
   },
