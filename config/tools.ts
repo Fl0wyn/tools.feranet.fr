@@ -314,6 +314,12 @@ export const toolsConfig = [
         desc: "Image generator and editor",
       },
       {
+        title: "Recraft",
+        href: "https://www.recraft.ai/",
+        icon: "/images/recraft.webp",
+        desc: "Image generator",
+      },
+      {
         title: "Remaker",
         href: "https://remaker.ai/",
         icon: "/images/remaker.webp",

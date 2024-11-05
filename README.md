@@ -42,7 +42,7 @@ npm run dev
 | <img src="public/images/clearbit.webp" width="12" /> Clearbit             | https://clearbit.com/logo            |
 | <img src="public/images/emojipedia.webp" width="12" /> Emojipedia         | https://emojipedia.org/              |
 
-### Library
+### UI Library
 
 | Name                                                                    | URL                         |
 | ----------------------------------------------------------------------- | --------------------------- |
@@ -80,6 +80,7 @@ npm run dev
 | <img src="public/images/seaart.webp" width="12" /> Seaart                       | https://www.seaart.ai/                |
 | <img src="public/images/midjourney.webp" width="12" /> Midjourney               | https://www.midjourney.com/           |
 | <img src="public/images/clipdrop.webp" width="12" /> Clipdrop                   | https://clipdrop.co/                  |
+| <img src="public/images/recraft.webp" width="12" /> Recraft                     | https://www.recraft.ai/               |
 | <img src="public/images/remaker.webp" width="12" /> Remaker                     | https://remaker.ai/                   |
 | <img src="public/images/magnific.webp" width="12" /> Magnific                   | https://magnific.ai/                  |
 | <img src="public/images/github-copilot.webp" width="12" /> Fooocus              | https://github.com/lllyasviel/Fooocus |
