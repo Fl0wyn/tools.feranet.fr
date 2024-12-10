@@ -252,6 +252,12 @@ export const toolsConfig = [
         desc: "Generate UI with shadcn/ui",
       },
       {
+        title: "Bolt",
+        href: "https://bolt.new/",
+        icon: "/images/bolt.webp",
+        desc: "Prompt, run, edit, and deploy full-stack web apps.",
+      },
+      {
         title: "Upscale",
         href: "https://www.upscale.media/",
         icon: "/images/upscale.webp",
