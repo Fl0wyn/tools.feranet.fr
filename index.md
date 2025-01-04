@@ -12,22 +12,22 @@ A collection of tools for developers and creators
 | <img src="https://haikei.app/favicon.ico" />              | [Haikei](https://haikei.app/)                                        |
 | <img src="https://www.base64-image.de/favicon.ico" />     | [Base64 Image](https://www.base64-image.de/)                         |
 | <img src="https://www.canva.com/favicon.ico" />           | [Canva](https://www.canva.com/)                                      |
-| <img src="https://www.trangram.com/favicon.ico" />        | [Trangram](https://www.trangram.com/)                                |
-| <img src="https://www.radix-ui.com/favicon.ico" />        | [Radix Colors](https://www.radix-ui.com/colors)                      |
-| <img src="https://tailwindcss.com/favicon.ico" />         | [Tailwindcss Color](https://tailwindcss.com/docs/customizing-colors) |
+| <img src="https://www.trangram.com/assets/favicon.png" />        | [Trangram](https://www.trangram.com/)                                |
+| <img src="https://www.radix-ui.com/favicon.png" />        | [Radix Colors](https://www.radix-ui.com/colors)                      |
+| <img src="https://tailwindcss.com/favicons/favicon-32x32.png?v=3" />         | [Tailwindcss Color](https://tailwindcss.com/docs/customizing-colors) |
 | <img src="https://picocss.com/favicon.ico" />             | [Pico CSS](https://picocss.com/)                                     |
 
 ### Icon
 
 | Name                                                | URL                                                   |
 | --------------------------------------------------- | ----------------------------------------------------- |
-| <img src="https://www.radix-ui.com/favicon.ico" />  | [Radix icons](https://www.radix-ui.com/icons)         |
+| <img src="https://www.radix-ui.com/favicon.png" />  | [Radix icons](https://www.radix-ui.com/icons)         |
 | <img src="https://lucide.dev/favicon.ico" />        | [Lucide](https://lucide.dev/)                         |
-| <img src="https://fonts.google.com/favicon.ico" />  | [Material Icons](https://fonts.google.com/icons)      |
+| <img src="hhttps://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/favicon.svg" />  | [Material Icons](https://fonts.google.com/icons)      |
 | <img src="https://fontawesome.com/favicon.ico" />   | [Font Awesome](https://fontawesome.com/search)        |
 | <img src="https://pictogrammers.com/favicon.ico" /> | [Pictogrammers](https://pictogrammers.com/libraries/) |
-| <img src="https://icones8.fr/favicon.ico" />        | [Icones 8](https://icones8.fr/icons/color)            |
-| <img src="https://svgporn.com/favicon.ico" />       | [SVGPORN](https://svgporn.com/)                       |
+| <img src="<https://maxst.icons8.com/vue-static/icon/favicon/icons8_fav_32%C3%9732.png> />        | [Icones 8](https://icones8.fr/icons/color)            |
+| <img src="https://svglogos.dev/brand/favicon-32x32.png" />       | [SVGPORN](https://svgporn.com/)                       |
 | <img src="https://clearbit.com/favicon.ico" />      | [Clearbit](https://clearbit.com/logo)                 |
 | <img src="https://emojipedia.org/favicon.ico" />    | [Emojipedia](https://emojipedia.org/)                 |
 
@@ -37,7 +37,7 @@ A collection of tools for developers and creators
 | ---------------------------------------------------- | ------------------------------------------- |
 | <img src="https://ui.shadcn.com/favicon.ico" />      | [shadcn UI](https://ui.shadcn.com/)         |
 | <img src="https://ui.aceternity.com/favicon.ico" />  | [Aceternity UI](https://ui.aceternity.com/) |
-| <img src="https://tailwindcss.com/favicon.ico" />    | [Tailwindcss](https://tailwindcss.com/)     |
+| <img src="https://tailwindcss.com/favicons/favicon-32x32.png?v=3" />    | [Tailwindcss](https://tailwindcss.com/)     |
 | <img src="https://getbootstrap.com/favicon.ico" />   | [Bootstrap](https://getbootstrap.com/)      |
 | <img src="https://tabler.io/favicon.ico" />          | [Tabler](https://tabler.io/)                |
 | <img src="https://vueuse.org/favicon.ico" />         | [VueUse](https://vueuse.org/)               |
@@ -97,26 +97,26 @@ A collection of tools for developers and creators
 | -------------------------------------------------------------- | -------------------------------------------------------- |
 | <img src="https://jsonplaceholder.typicode.com/favicon.ico" /> | [Jsonplaceholder](https://jsonplaceholder.typicode.com/) |
 | <img src="https://unsplash.com/favicon.ico" />                 | [Unsplash](https://unsplash.com/developers)              |
-| <img src="https://ipinfo.io/favicon.ico" />                    | [Ipinfo](https://ipinfo.io/)                             |
-| <img src="https://www.ipify.org/static/images/apple-icon-57x57.png />                | [Ipify API](https://www.ipify.org/)                      |
+| <img src="https://cdn.ipinfo.io/static/deviceicons/android-icon-48x48.png" />                    | [Ipinfo](https://ipinfo.io/)                             |
+| <img src="https://www.ipify.org/static/images/apple-icon-57x57.png" />                | [Ipify API](https://www.ipify.org/)                      |
 | <img src="https://openweathermap.org/favicon.ico" />           | [Openweathermap](https://openweathermap.org/)            |
-| <img src="https://ntfy.sh/favicon.ico" />                      | [Ntfy](https://ntfy.sh/)                                 |
+| <img src="https://ntfy.sh/_site/images/favicon.ico" />                      | [Ntfy](https://ntfy.sh/)                                 |
 
 ### Utility
 
 | Name                                                              | URL                                                                 |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
 | <img src="https://alternativeto.net/favicon.ico" />               | [Alternativeto](https://alternativeto.net/)                         |
-| <img src="https://useful-forks.github.io/favicon.ico" />          | [Useful Forks](https://useful-forks.github.io/)                     |
-| <img src="https://readmi.xyz/favicon.ico" />                      | [Readmi](https://readmi.xyz/)                                       |
+| <img src="https://useful-forks.github.io/assets/useful-forks-logo.png" />          | [Useful Forks](https://useful-forks.github.io/)                     |
+| <img src="https://readmi.xyz/readmi.svg" />                      | [Readmi](https://readmi.xyz/)                                       |
 | <img src="https://jsoncrack.com/favicon.ico" />                   | [Json Crack](https://jsoncrack.com/)                                |
 | <img src="https://excalidraw.com/favicon.ico" />                  | [Excalidraw](https://excalidraw.com/)                               |
-| <img src="https://dbdiagram.io/favicon.ico" />                    | [DBdiagram](https://dbdiagram.io/home)                              |
+| <img src="https://cdn.holistics.io/logo-dbdiagram-notext.ico" />                    | [DBdiagram](https://dbdiagram.io/home)                              |
 | <img src="https://regex101.com/favicon.ico" />                    | [Regex101](https://regex101.com/)                                   |
 | <img src="https://www.virustotal.com/favicon.ico" />              | [Virus Total](https://www.virustotal.com/gui/home/upload)           |
 | <img src="https://files.rg-adguard.net/favicon.ico" />            | [List of files by Microsoft](https://files.rg-adguard.net/category) |
 | <img src="https://skillicons.dev/favicon.ico" />                  | [Skill Icons](https://skillicons.dev/)                              |
-| <img src="https://readme-typing-svg.herokuapp.com/favicon.ico" /> | [Readme Typing](https://readme-typing-svg.herokuapp.com/)           |
+| <img src="https://readme-typing-svg.herokuapp.com/demo/favicon.png" /> | [Readme Typing](https://readme-typing-svg.herokuapp.com/)           |
 
 ### Game
 
@@ -124,5 +124,5 @@ A collection of tools for developers and creators
 | ------------------------------------------------------- | ------------------------------------------------- |
 | <img src="https://flexboxfroggy.com/favicon.ico" />     | [Flexbox Froggy](https://flexboxfroggy.com)       |
 | <img src="https://cssgridgarden.com/favicon.ico" />     | [Grid Garden](https://cssgridgarden.com/)         |
-| <img src="http://www.flexboxdefense.com/favicon.ico" /> | [Flexbox Defense](http://www.flexboxdefense.com/) |
-| <img src="https://flukeout.github.io/favicon.ico" />    | [CSS Diner](https://flukeout.github.io/)          |
+| <img src="http://www.flexboxdefense.com/images/favicon.ico" /> | [Flexbox Defense](http://www.flexboxdefense.com/) |
+| <img src="https://flukeout.github.io/favicon.png" />    | [CSS Diner](https://flukeout.github.io/)          |
