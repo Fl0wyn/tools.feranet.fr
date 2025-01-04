@@ -1,6 +1,4 @@
-<style> img { width: 12px; } </style>
-
-# Tools Feranet
+<style> img { width: 24px; } </style>
 
 A collection of tools for developers and creators
 
@@ -100,7 +98,7 @@ A collection of tools for developers and creators
 | <img src="https://jsonplaceholder.typicode.com/favicon.ico" /> | [Jsonplaceholder](https://jsonplaceholder.typicode.com/) |
 | <img src="https://unsplash.com/favicon.ico" />                 | [Unsplash](https://unsplash.com/developers)              |
 | <img src="https://ipinfo.io/favicon.ico" />                    | [Ipinfo](https://ipinfo.io/)                             |
-| <img src="https://www.ipify.org/favicon.ico" />                | [Ipify API](https://www.ipify.org/)                      |
+| <img src="https://www.ipify.org/static/images/apple-icon-57x57.png />                | [Ipify API](https://www.ipify.org/)                      |
 | <img src="https://openweathermap.org/favicon.ico" />           | [Openweathermap](https://openweathermap.org/)            |
 | <img src="https://ntfy.sh/favicon.ico" />                      | [Ntfy](https://ntfy.sh/)                                 |
 
