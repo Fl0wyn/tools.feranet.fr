@@ -1,11 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" />
 <style> img { width: 12px; } </style>
 
 # Tools Feranet
 
 A collection of tools for developers and creators
-
-<main class="container">
 
 ### Design
 
@@ -129,5 +126,3 @@ A collection of tools for developers and creators
 | <img src="https://cssgridgarden.com/favicon.ico" />     | [Grid Garden](https://cssgridgarden.com/)         |
 | <img src="http://www.flexboxdefense.com/favicon.ico" /> | [Flexbox Defense](http://www.flexboxdefense.com/) |
 | <img src="https://flukeout.github.io/favicon.ico" />    | [CSS Diner](https://flukeout.github.io/)          |
-
-</main>
