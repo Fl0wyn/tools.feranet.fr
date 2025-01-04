@@ -10,10 +10,10 @@ A collection of tools for developers and creators
 | <img src="/images/Vecta.ico" />             | [Vecta](https://vecta.io/nano)                                       |
 | <img src="/images/Convertio.ico" />         | [Convertio](https://convertio.co)                                    |
 | <img src="/images/Haikei.ico" />            | [Haikei](https://haikei.app/)                                        |
-| <img src="/images/Base64 Image.ico" />      | [Base64 Image](https://www.base64-image.de/)                         |
+| <img src="/images/Base64Image.ico" />      | [Base64 Image](https://www.base64-image.de/)                         |
 | <img src="/images/Canva.ico" />             | [Canva](https://www.canva.com/)                                      |
 | <img src="/images/Trangram.ico" />          | [Trangram](https://www.trangram.com/)                                |
-| <img src="/images/Radix Colors.ico" />      | [Radix Colors](https://www.radix-ui.com/colors)                      |
+| <img src="/images/RadixColors.ico" />      | [Radix Colors](https://www.radix-ui.com/colors)                      |
 | <img src="/images/Tailwindcss Color.ico" /> | [Tailwindcss Color](https://tailwindcss.com/docs/customizing-colors) |
 | <img src="/images/Pico CSS.ico" />          | [Pico CSS](https://picocss.com/)                                     |
 
@@ -21,12 +21,12 @@ A collection of tools for developers and creators
 
 | Name                                     | URL                                                   |
 | ---------------------------------------- | ----------------------------------------------------- |
-| <img src="/images/Radix icons.ico" />    | [Radix icons](https://www.radix-ui.com/icons)         |
+| <img src="/images/Radixicons.ico" />    | [Radix icons](https://www.radix-ui.com/icons)         |
 | <img src="/images/Lucide.ico" />         | [Lucide](https://lucide.dev/)                         |
-| <img src="/images/Material Icons.ico" /> | [Material Icons](https://fonts.google.com/icons)      |
-| <img src="/images/Font Awesome.ico" />   | [Font Awesome](https://fontawesome.com/search)        |
+| <img src="/images/MaterialIcons.ico" /> | [Material Icons](https://fonts.google.com/icons)      |
+| <img src="/images/FontAwesome.ico" />   | [Font Awesome](https://fontawesome.com/search)        |
 | <img src="/images/Pictogrammers.ico" />  | [Pictogrammers](https://pictogrammers.com/libraries/) |
-| <img src="/images/Icones 8.ico" />       | [Icones 8](https://icones8.fr/icons/color)            |
+| <img src="/images/Icones8.ico" />       | [Icones 8](https://icones8.fr/icons/color)            |
 | <img src="/images/SVGPORN.ico" />        | [SVGPORN](https://svgporn.com/)                       |
 | <img src="/images/Clearbit.ico" />       | [Clearbit](https://clearbit.com/logo)                 |
 | <img src="/images/Emojipedia.ico" />     | [Emojipedia](https://emojipedia.org/)                 |
@@ -35,8 +35,8 @@ A collection of tools for developers and creators
 
 | Name                                    | URL                                         |
 | --------------------------------------- | ------------------------------------------- |
-| <img src="/images/shadcn UI.ico" />     | [shadcn UI](https://ui.shadcn.com/)         |
-| <img src="/images/Aceternity UI.ico" /> | [Aceternity UI](https://ui.aceternity.com/) |
+| <img src="/images/shadcnUI.ico" />     | [shadcn UI](https://ui.shadcn.com/)         |
+| <img src="/images/AceternityUI.ico" /> | [Aceternity UI](https://ui.aceternity.com/) |
 | <img src="/images/Tailwindcss.ico" />   | [Tailwindcss](https://tailwindcss.com/)     |
 | <img src="/images/Bootstrap.ico" />     | [Bootstrap](https://getbootstrap.com/)      |
 | <img src="/images/Tabler.ico" />        | [Tabler](https://tabler.io/)                |
@@ -49,13 +49,13 @@ A collection of tools for developers and creators
 | Name                                        | URL                                                   |
 | ------------------------------------------- | ----------------------------------------------------- |
 | <img src="/images/ChatGPT.ico" />           | [ChatGPT](https://chat.openai.com/)                   |
-| <img src="/images/Bing Copilot.ico" />      | [Bing Copilot](https://www.bing.com/chat)             |
+| <img src="/images/BingCopilot.ico" />      | [Bing Copilot](https://www.bing.com/chat)             |
 | <img src="/images/Gemini.ico" />            | [Gemini](https://gemini.google.com/)                  |
 | <img src="/images/Perplexity.ico" />        | [Perplexity](https://www.perplexity.ai/)              |
 | <img src="/images/Mistral.ico" />           | [Mistral](https://mistral.ai/)                        |
 | <img src="/images/Claude.ico" />            | [Claude](https://claude.ai/)                          |
 | <img src="/images/Groq.ico" />              | [Groq](https://groq.com/)                             |
-| <img src="/images/DALL·E 2.ico" />          | [DALL·E 2](https://openai.com/dall-e-2)               |
+| <img src="/images/DALL·E2.ico" />          | [DALL·E 2](https://openai.com/dall-e-2)               |
 | <img src="/images/Github Copilot.ico" />    | [Github Copilot](https://copilot.github.com/)         |
 | <img src="/images/Tabnine.ico" />           | [Tabnine](https://www.tabnine.com/)                   |
 | <img src="/images/V0.ico" />                | [V0](https://v0.dev/)                                 |
@@ -63,7 +63,7 @@ A collection of tools for developers and creators
 | <img src="/images/Lovable.ico" />           | [Lovable](https://lovable.dev/)                       |
 | <img src="/images/Deepseek.ico" />          | [Deepseek](https://www.deepseek.com/)                 |
 | <img src="/images/Upscale.ico" />           | [Upscale](https://www.upscale.media/)                 |
-| <img src="/images/Remove bg.ico" />         | [Remove bg](https://www.remove.bg/)                   |
+| <img src="/images/Removebg.ico" />         | [Remove bg](https://www.remove.bg/)                   |
 | <img src="/images/Watermark Remover.ico" /> | [Watermark Remover](https://www.watermarkremover.io/) |
 | <img src="/images/Vectorizer.ico" />        | [Vectorizer](https://vectorizer.ai/)                  |
 | <img src="/images/DeepAI.ico" />            | [DeepAI](https://deepai.org/)                         |
@@ -76,7 +76,7 @@ A collection of tools for developers and creators
 | <img src="/images/Remaker.ico" />           | [Remaker](https://remaker.ai/)                        |
 | <img src="/images/Magnific.ico" />          | [Magnific](https://magnific.ai/)                      |
 | <img src="/images/Fooocus.ico" />           | [Fooocus](https://github.com/lllyasviel/Fooocus)      |
-| <img src="/images/Suno AI.ico" />           | [Suno AI](https://www.suno.ai/)                       |
+| <img src="/images/SunoAI.ico" />           | [Suno AI](https://www.suno.ai/)                       |
 | <img src="/images/Udio.ico" />              | [Udio](https://www.udio.com/)                         |
 | <img src="/images/Audiobox.ico" />          | [Audiobox](https://audiobox.metademolab.com/)         |
 | <img src="/images/Elevenlabs.ico" />        | [Elevenlabs](https://elevenlabs.io/)                  |
@@ -85,7 +85,7 @@ A collection of tools for developers and creators
 | <img src="/images/Capcut.ico" />            | [Capcut](https://www.capcut.com/)                     |
 | <img src="/images/Submagic.ico" />          | [Submagic](https://www.submagic.co/)                  |
 | <img src="/images/Interior AI.ico" />       | [Interior AI](https://interiorai.com/)                |
-| <img src="/images/Room GPT.ico" />          | [Room GPT](https://www.roomgpt.io/)                   |
+| <img src="/images/RoomGPT.ico" />          | [Room GPT](https://www.roomgpt.io/)                   |
 | <img src="/images/Mylens.ico" />            | [Mylens](https://mylens.ai/)                          |
 | <img src="/images/Pinokio.ico" />           | [Pinokio](https://pinokio.computer/)                  |
 | <img src="/images/Ollama.ico" />            | [Ollama](https://ollama.com/)                         |
@@ -107,22 +107,22 @@ A collection of tools for developers and creators
 | Name                                                 | URL                                                                 |
 | ---------------------------------------------------- | ------------------------------------------------------------------- |
 | <img src="/images/Alternativeto.ico" />              | [Alternativeto](https://alternativeto.net/)                         |
-| <img src="/images/Useful Forks.ico" />               | [Useful Forks](https://useful-forks.github.io/)                     |
+| <img src="/images/UsefulForks.ico" />               | [Useful Forks](https://useful-forks.github.io/)                     |
 | <img src="/images/Readmi.ico" />                     | [Readmi](https://readmi.xyz/)                                       |
-| <img src="/images/Json Crack.ico" />                 | [Json Crack](https://jsoncrack.com/)                                |
+| <img src="/images/JsonCrack.ico" />                 | [Json Crack](https://jsoncrack.com/)                                |
 | <img src="/images/Excalidraw.ico" />                 | [Excalidraw](https://excalidraw.com/)                               |
 | <img src="/images/DBdiagram.ico" />                  | [DBdiagram](https://dbdiagram.io/home)                              |
 | <img src="/images/Regex101.ico" />                   | [Regex101](https://regex101.com/)                                   |
-| <img src="/images/Virus Total.ico" />                | [Virus Total](https://www.virustotal.com/gui/home/upload)           |
-| <img src="/images/List of files by Microsoft.ico" /> | [List of files by Microsoft](https://files.rg-adguard.net/category) |
-| <img src="/images/Skill Icons.ico" />                | [Skill Icons](https://skillicons.dev/)                              |
-| <img src="/images/Readme Typing.ico" />              | [Readme Typing](https://readme-typing-svg.herokuapp.com/)           |
+| <img src="/images/VirusTotal.ico" />                | [Virus Total](https://www.virustotal.com/gui/home/upload)           |
+| <img src="/images/ListoffilesbyMicrosoft.ico" /> | [List of files by Microsoft](https://files.rg-adguard.net/category) |
+| <img src="/images/SkillIcons.ico" />                | [Skill Icons](https://skillicons.dev/)                              |
+| <img src="/images/ReadmeTyping.ico" />              | [Readme Typing](https://readme-typing-svg.herokuapp.com/)           |
 
 ### Game
 
 | Name                                      | URL                                               |
 | ----------------------------------------- | ------------------------------------------------- |
-| <img src="/images/Flexbox Froggy.ico" />  | [Flexbox Froggy](https://flexboxfroggy.com)       |
-| <img src="/images/Grid Garden.ico" />     | [Grid Garden](https://cssgridgarden.com/)         |
-| <img src="/images/Flexbox Defense.ico" /> | [Flexbox Defense](http://www.flexboxdefense.com/) |
-| <img src="/images/CSS Diner.ico" />       | [CSS Diner](https://flukeout.github.io/)          |
+| <img src="/images/FlexboxFroggy.ico" />  | [Flexbox Froggy](https://flexboxfroggy.com)       |
+| <img src="/images/GridGarden.ico" />     | [Grid Garden](https://cssgridgarden.com/)         |
+| <img src="/images/FlexboxDefense.ico" /> | [Flexbox Defense](http://www.flexboxdefense.com/) |
+| <img src="/images/CSSDiner.ico" />       | [CSS Diner](https://flukeout.github.io/)          |
