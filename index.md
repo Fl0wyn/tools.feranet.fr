@@ -26,7 +26,7 @@ A collection of tools for developers and creators
 | <img src="hhttps://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/favicon.svg" />  | [Material Icons](https://fonts.google.com/icons)      |
 | <img src="https://fontawesome.com/favicon.ico" />   | [Font Awesome](https://fontawesome.com/search)        |
 | <img src="https://pictogrammers.com/favicon.ico" /> | [Pictogrammers](https://pictogrammers.com/libraries/) |
-| <img src="<https://maxst.icons8.com/vue-static/icon/favicon/icons8_fav_32%C3%9732.png> />        | [Icones 8](https://icones8.fr/icons/color)            |
+| <img src="https://maxst.icons8.com/vue-static/icon/favicon/icons8_fav_32%C3%9732.png" />        | [Icones 8](https://icones8.fr/icons/color)            |
 | <img src="https://svglogos.dev/brand/favicon-32x32.png" />       | [SVGPORN](https://svgporn.com/)                       |
 | <img src="https://clearbit.com/favicon.ico" />      | [Clearbit](https://clearbit.com/logo)                 |
 | <img src="https://emojipedia.org/favicon.ico" />    | [Emojipedia](https://emojipedia.org/)                 |
@@ -50,46 +50,46 @@ A collection of tools for developers and creators
 | ---------------------------------------------------------- | ----------------------------------------------------- |
 | <img src="https://chat.openai.com/favicon.ico" />          | [ChatGPT](https://chat.openai.com/)                   |
 | <img src="https://www.bing.com/favicon.ico" />             | [Bing Copilot](https://www.bing.com/chat)             |
-| <img src="https://gemini.google.com/favicon.ico" />        | [Gemini](https://gemini.google.com/)                  |
+| <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" />        | [Gemini](https://gemini.google.com/)                  |
 | <img src="https://www.perplexity.ai/favicon.ico" />        | [Perplexity](https://www.perplexity.ai/)              |
-| <img src="https://mistral.ai/favicon.ico" />               | [Mistral](https://mistral.ai/)                        |
+| <img src="https://mistral.ai/images/favicon/favicon-32x32.png" />               | [Mistral](https://mistral.ai/)                        |
 | <img src="https://claude.ai/favicon.ico" />                | [Claude](https://claude.ai/)                          |
-| <img src="https://groq.com/favicon.ico" />                 | [Groq](https://groq.com/)                             |
+| <img src="https://groq.com/wp-content/uploads/2024/02/android-icon-192x192-1-150x150.png" />                 | [Groq](https://groq.com/)                             |
 | <img src="https://openai.com/favicon.ico" />               | [DALL·E 2](https://openai.com/dall-e-2)               |
-| <img src="https://copilot.github.com/favicon.ico" />       | [Github Copilot](https://copilot.github.com/)         |
+| <img src="https://github.com/favicon.ico" />       | [Github Copilot](https://copilot.github.com/)         |
 | <img src="https://www.tabnine.com/favicon.ico" />          | [Tabnine](https://www.tabnine.com/)                   |
-| <img src="https://v0.dev/favicon.ico" />                   | [V0](https://v0.dev/)                                 |
-| <img src="https://bolt.new/favicon.ico" />                 | [Bolt](https://bolt.new/)                             |
+| <img src="https://v0.dev/assets/icon.svg" />                   | [V0](https://v0.dev/)                                 |
+| <img src="https://bolt.new/favicon.svg" />                 | [Bolt](https://bolt.new/)                             |
 | <img src="https://lovable.dev/favicon.ico" />              | [Lovable](https://lovable.dev/)                       |
 | <img src="https://www.deepseek.com/favicon.ico" />         | [Deepseek](https://www.deepseek.com/)                 |
-| <img src="https://www.upscale.media/favicon.ico" />        | [Upscale](https://www.upscale.media/)                 |
+| <img src="https://cdn.pixelbin.io/v2/dummy-cloudname/original/upscalemedia_assets/logo/favicon.png?f_auto=true" />        | [Upscale](https://www.upscale.media/)                 |
 | <img src="https://www.remove.bg/favicon.ico" />            | [Remove bg](https://www.remove.bg/)                   |
-| <img src="https://www.watermarkremover.io/favicon.ico" />  | [Watermark Remover](https://www.watermarkremover.io/) |
-| <img src="https://vectorizer.ai/favicon.ico" />            | [Vectorizer](https://vectorizer.ai/)                  |
+| <img src="https://cdn.pixelbin.io/v2/dummy-cloudname/original/watermarkremover_asset/logo/favicon.ico" />  | [Watermark Remover](https://www.watermarkremover.io/) |
+| <img src="https://d1j8j7mb8gx2ao.cloudfront.net/p/assets/m/favicons/vectorizer/favicon-32_d0979f37a631fc6c0a13bb360c56a4ea.png" />            | [Vectorizer](https://vectorizer.ai/)                  |
 | <img src="https://deepai.org/favicon.ico" />               | [DeepAI](https://deepai.org/)                         |
-| <img src="https://ideogram.ai/favicon.ico" />              | [Ideogram](https://ideogram.ai/)                      |
+| <img src="https://ideogram.ai/favicon.svg" />              | [Ideogram](https://ideogram.ai/)                      |
 | <img src="https://leonardo.ai/favicon.ico" />              | [Leonardo](https://leonardo.ai/)                      |
 | <img src="https://www.seaart.ai/favicon.ico" />            | [Seaart](https://www.seaart.ai/)                      |
-| <img src="https://www.midjourney.com/favicon.ico" />       | [Midjourney](https://www.midjourney.com/)             |
+| <img src="https://www.midjourney.com/apple-touch-icon.png" />       | [Midjourney](https://www.midjourney.com/)             |
 | <img src="https://clipdrop.co/favicon.ico" />              | [Clipdrop](https://clipdrop.co/)                      |
-| <img src="https://www.recraft.ai/favicon.ico" />           | [Recraft](https://www.recraft.ai/)                    |
-| <img src="https://remaker.ai/favicon.ico" />               | [Remaker](https://remaker.ai/)                        |
-| <img src="https://magnific.ai/favicon.ico" />              | [Magnific](https://magnific.ai/)                      |
+| <img src="https://www.recraft.ai/favicons/apple-touch-icon.png" />           | [Recraft](https://www.recraft.ai/)                    |
+| <img src="https://remaker.ai/userspace/saasbox/image/remaker-logo/icon.png" />               | [Remaker](https://remaker.ai/)                        |
+| <img src="https://magnific.ai/favicon32.png" />              | [Magnific](https://magnific.ai/)                      |
 | <img src="https://github.com/favicon.ico" />               | [Fooocus](https://github.com/lllyasviel/Fooocus)      |
 | <img src="https://www.suno.ai/favicon.ico" />              | [Suno AI](https://www.suno.ai/)                       |
 | <img src="https://www.udio.com/favicon.ico" />             | [Udio](https://www.udio.com/)                         |
-| <img src="https://audiobox.metademolab.com/favicon.ico" /> | [Audiobox](https://audiobox.metademolab.com/)         |
+| <img src="https://audiobox.metademolab.com/M_Favicon_1632.ico" /> | [Audiobox](https://audiobox.metademolab.com/)         |
 | <img src="https://elevenlabs.io/favicon.ico" />            | [Elevenlabs](https://elevenlabs.io/)                  |
-| <img src="https://www.heygen.com/favicon.ico" />           | [Heygen](https://www.heygen.com/)                     |
+| <img src="https://cdn.prod.website-files.com/66a9edf7bd0139f5207e19be/66e1990792d6eb444aa7dccc_HeyGenFavicon-1%20(1)%201.svg" />           | [Heygen](https://www.heygen.com/)                     |
 | <img src="https://pika.art/favicon.ico" />                 | [Pika](https://pika.art/)                             |
-| <img src="https://www.capcut.com/favicon.ico" />           | [Capcut](https://www.capcut.com/)                     |
-| <img src="https://www.submagic.co/favicon.ico" />          | [Submagic](https://www.submagic.co/)                  |
+| <img src="https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/common/images/lv_web-2.ico" />           | [Capcut](https://www.capcut.com/)                     |
+| <img src="https://cdn.prod.website-files.com/6469e2294ac68c3d5caea327/649ece3d4eda352389d58043_Icon%20And%20Favicon%400.5x.png" />          | [Submagic](https://www.submagic.co/)                  |
 | <img src="https://interiorai.com/favicon.ico" />           | [Interior AI](https://interiorai.com/)                |
 | <img src="https://www.roomgpt.io/favicon.ico" />           | [Room GPT](https://www.roomgpt.io/)                   |
-| <img src="https://mylens.ai/favicon.ico" />                | [Mylens](https://mylens.ai/)                          |
+| <img src="https://mylens.ai/static/favicon.ico?v=2" />                | [Mylens](https://mylens.ai/)                          |
 | <img src="https://pinokio.computer/favicon.ico" />         | [Pinokio](https://pinokio.computer/)                  |
-| <img src="https://ollama.com/favicon.ico" />               | [Ollama](https://ollama.com/)                         |
-| <img src="https://www.deepl.com/favicon.ico" />            | [Deepl](https://www.deepl.com/translator)             |
+| <img src="https://ollama.com/public/icon-32x32.png" />               | [Ollama](https://ollama.com/)                         |
+| <img src="https://static.deepl.com/img/favicon/favicon_32.png" />            | [Deepl](https://www.deepl.com/translator)             |
 
 ### API
 
