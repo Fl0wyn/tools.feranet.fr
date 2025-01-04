@@ -21,7 +21,7 @@ A collection of tools for developers and creators
 
 | Name                                    | URL                                                   |
 | --------------------------------------- | ----------------------------------------------------- |
-| <img src="/images/Radixicons.ico" />    | [Radix icons](https://www.radix-ui.com/icons)         |
+| <img src="/images/RadixIcons.ico" />    | [Radix icons](https://www.radix-ui.com/icons)         |
 | <img src="/images/Lucide.ico" />        | [Lucide](https://lucide.dev/)                         |
 | <img src="/images/MaterialIcons.png" /> | [Material Icons](https://fonts.google.com/icons)      |
 | <img src="/images/FontAwesome.ico" />   | [Font Awesome](https://fontawesome.com/search)        |
@@ -50,7 +50,7 @@ A collection of tools for developers and creators
 | ------------------------------------------ | ----------------------------------------------------- |
 | <img src="/images/ChatGPT.png" />          | [ChatGPT](https://chat.openai.com/)                   |
 | <img src="/images/BingCopilot.ico" />      | [Bing Copilot](https://www.bing.com/chat)             |
-| <img src="/images/Gemini.ico" />           | [Gemini](https://gemini.google.com/)                  |
+| <img src="/images/Gemini.svg" />           | [Gemini](https://gemini.google.com/)                  |
 | <img src="/images/Perplexity.ico" />       | [Perplexity](https://www.perplexity.ai/)              |
 | <img src="/images/Mistral.ico" />          | [Mistral](https://mistral.ai/)                        |
 | <img src="/images/Claude.ico" />           | [Claude](https://claude.ai/)                          |
@@ -80,7 +80,7 @@ A collection of tools for developers and creators
 | <img src="/images/Udio.ico" />             | [Udio](https://www.udio.com/)                         |
 | <img src="/images/Audiobox.ico" />         | [Audiobox](https://audiobox.metademolab.com/)         |
 | <img src="/images/Elevenlabs.ico" />       | [Elevenlabs](https://elevenlabs.io/)                  |
-| <img src="/images/Heygen.ico" />           | [Heygen](https://www.heygen.com/)                     |
+| <img src="/images/Heygen.png" />           | [Heygen](https://www.heygen.com/)                     |
 | <img src="/images/Pika.ico" />             | [Pika](https://pika.art/)                             |
 | <img src="/images/Capcut.ico" />           | [Capcut](https://www.capcut.com/)                     |
 | <img src="/images/Submagic.ico" />         | [Submagic](https://www.submagic.co/)                  |
@@ -116,7 +116,7 @@ A collection of tools for developers and creators
 | <img src="/images/VirusTotal.ico" />     | [Virus Total](https://www.virustotal.com/gui/home/upload)           |
 | <img src="/images/MicrosoftFiles.ico" /> | [List of files by Microsoft](https://files.rg-adguard.net/category) |
 | <img src="/images/SkillIcons.ico" />     | [Skill Icons](https://skillicons.dev/)                              |
-<!-- | <img src="/images/ReadmeTyping.ico" />   | [Readme Typing](https://readme-typing-svg.herokuapp.com/)           | -->
+| <img src="/images/ReadmeTyping.ico" />   | [Readme Typing](https://readme-typing-svg.herokuapp.com/)           |
 
 ### Game
 
