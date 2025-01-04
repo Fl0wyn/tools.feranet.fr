@@ -62,6 +62,8 @@ A collection of tools for developers and creators
 | <img src="https://www.tabnine.com/favicon.ico" />          | [Tabnine](https://www.tabnine.com/)                   |
 | <img src="https://v0.dev/favicon.ico" />                   | [V0](https://v0.dev/)                                 |
 | <img src="https://bolt.new/favicon.ico" />                 | [Bolt](https://bolt.new/)                             |
+| <img src="https://lovable.dev/favicon.ico" />              | [Lovable](https://lovable.dev/)                       |
+| <img src="https://www.deepseek.com/favicon.ico" />         | [Deepseek](https://www.deepseek.com/)                 |
 | <img src="https://www.upscale.media/favicon.ico" />        | [Upscale](https://www.upscale.media/)                 |
 | <img src="https://www.remove.bg/favicon.ico" />            | [Remove bg](https://www.remove.bg/)                   |
 | <img src="https://www.watermarkremover.io/favicon.ico" />  | [Watermark Remover](https://www.watermarkremover.io/) |
