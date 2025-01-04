@@ -70,6 +70,7 @@ npm run dev
 | <img src="public/images/github-copilot.webp" width="12" /> Github Copilot       | https://copilot.github.com/           |
 | <img src="public/images/tabnine.webp" width="12" /> Tabnine                     | https://www.tabnine.com/              |
 | <img src="public/images/v0.webp" width="12" /> V0                               | https://v0.dev/                       |
+| <img src="public/images/bolt.webp" width="12" /> Bolt                           | https://bolt.new/                     |
 | <img src="public/images/upscale.webp" width="12" /> Upscale                     | https://www.upscale.media/            |
 | <img src="public/images/remove-bg.webp" width="12" /> Remove bg                 | https://www.remove.bg/                |
 | <img src="public/images/watermark-remover.webp" width="12" /> Watermark Remover | https://www.watermarkremover.io/      |
@@ -123,6 +124,9 @@ npm run dev
 | <img src="public/images/regex101.webp" width="12" /> Regex101                                 | https://regex101.com/                      |
 | <img src="public/images/virustotal.webp" width="12" /> Virus Total                            | https://www.virustotal.com/gui/home/upload |
 | <img src="public/images/ListoffilesbyMicrosoft.webp" width="12" /> List of files by Microsoft | https://files.rg-adguard.net/category      |
+| <img src="public/images/skillicons.webp" width="12" /> Skill Icons                            | https://skillicons.dev/                    |
+| <img src="public/images/readme-typing.webp" width="12" /> Readme Typing                       | https://readme-typing-svg.herokuapp.com/   |
+
 
 ### Game
 

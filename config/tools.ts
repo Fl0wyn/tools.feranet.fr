@@ -252,6 +252,12 @@ export const toolsConfig = [
         desc: "Generate UI with shadcn/ui",
       },
       {
+        title: "Bolt",
+        href: "https://bolt.new/",
+        icon: "/images/bolt.webp",
+        desc: "Prompt, run, edit, and deploy full-stack web apps.",
+      },
+      {
         title: "Upscale",
         href: "https://www.upscale.media/",
         icon: "/images/upscale.webp",
@@ -524,6 +530,18 @@ export const toolsConfig = [
         href: "https://files.rg-adguard.net/category",
         icon: "/images/ListoffilesbyMicrosoft.webp",
         desc: "Download Windows ISOs",
+      },
+      {
+        title: "Skill Icons",
+        href: "https://skillicons.dev/",
+        icon: "/images/skillicons.webp",
+        desc: "Showcase your skills on your GitHub or resumé",
+      },
+      {
+        title: "Readme Typing",
+        href: "https://readme-typing-svg.herokuapp.com/",
+        icon: "/images/readme-typing.webp",
+        desc: "Dynamically generated, customizable SVG",
       },
     ],
   },
